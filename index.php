@@ -5,7 +5,6 @@
 	<title>SP</title>
 </head>
 <body>
-<?php include("header.php"); ?>
 
 <br />
 <br />
